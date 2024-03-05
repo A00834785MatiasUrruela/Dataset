@@ -241,7 +241,4 @@ client_key,Age,Gender,Veteran,Income,Nights,substanceabuse,completed,probation,a
 213114,79,Male,Yes,2100,11,0,1,0,permassistance,0
 258969,79,Female,Yes,694,16,0,1,0,permassistance,0
 84396,79,Female,Yes,0,22,0,1,0,permassistance,0
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,https://www.kaggle.com/datasets/rezag7/homeless-dataset?resource=download,,,,,,,,,
+
